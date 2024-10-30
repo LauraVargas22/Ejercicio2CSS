@@ -23,7 +23,6 @@
     position: absolute;
     right: 30rem;
     display: inline-block;
-    position: absolute;
     color: white;
     padding: 30px;
     background-color: rgb(52, 8, 94);
@@ -34,7 +33,6 @@
     position: absolute;
     right: 20rem;
     display: inline-block;
-    position: absolute;
     color: white;
     padding: 30px;
     background-color: rgb(52, 8, 94);
@@ -45,7 +43,6 @@
     position: absolute;
     right: 10rem;
     display: inline-block;
-    position: absolute;
     color: white;
     padding: 30px;
     background-color: rgb(52, 8, 94);
@@ -93,21 +90,21 @@ p{
     color: white;
     padding: 400px;
 }
-.body1 {
+#ini {
     position: relative;
     top: 82px;
     height: 800px;
     background-image: linear-gradient(#a1c4fd, #c2e9fb);
 }
 
-.body2 {
+#acer {
     position: relative;
     top: 82px;
     height: 800px;
     background-image: linear-gradient(#d299c2, #fef9d7);
 }
 
-.body3 {
+#cont {
     position: relative;
     top: 82px;
     height: 800px;
