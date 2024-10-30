@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Birthstone&family=Roboto+Condensed:ital@0;1&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.barra {
+    position: fixed;
+    top: 0;
+    background-color: rgb(52, 8, 94);
+    width: 100%;
+    height: 82px;
+}
+
+.enlaces {
+    text-align: center;
+    font-family: "Roboto Condensed", sans-serif;
+    font-weight: 400;
+}
+
+.inicio {
+    position: absolute;
+    right: 30rem;
+    display: inline-block;
+    position: absolute;
+    color: white;
+    padding: 30px;
+    background-color: rgb(52, 8, 94);
+    text-decoration: none;
+}
+
+.acerca {
+    position: absolute;
+    right: 20rem;
+    display: inline-block;
+    position: absolute;
+    color: white;
+    padding: 30px;
+    background-color: rgb(52, 8, 94);
+    text-decoration: none;
+}
+
+.contacto {
+    position: absolute;
+    right: 10rem;
+    display: inline-block;
+    position: absolute;
+    color: white;
+    padding: 30px;
+    background-color: rgb(52, 8, 94);
+    text-decoration: none;
+}
+
+.inicio:hover {
+    position: absolute;
+    right: 10rem;
+    display: inline-block;
+    position: absolute;
+    padding: 30px;
+    background-color: white;
+    text-decoration: none;
+    color: black;
+}
+
+.acerca:hover {
+    position: absolute;
+    right: 10rem;
+    display: inline-block;
+    position: absolute;
+    padding: 30px;
+    background-color: white;
+    text-decoration: none;
+    color: black;
+}
+
+.contacto:hover {
+    position: absolute;
+    right: 10rem;
+    display: inline-block;
+    position: absolute;
+    padding: 30px;
+    background-color: white;
+    text-decoration: none;
+    color: black;
+}
+
+p{
+    font-family: "Roboto Condensed", sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    padding: 400px;
+}
+.body1 {
+    position: relative;
+    top: 82px;
+    height: 800px;
+    background-image: linear-gradient(#a1c4fd, #c2e9fb);
+}
+
+.body2 {
+    position: relative;
+    top: 82px;
+    height: 800px;
+    background-image: linear-gradient(#d299c2, #fef9d7);
+}
+
+.body3 {
+    position: relative;
+    top: 82px;
+    height: 800px;
+    background-image: linear-gradient(#5ee7df,#b490ca);
+}
